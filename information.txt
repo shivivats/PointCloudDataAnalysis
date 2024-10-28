@@ -1,0 +1,20 @@
+FrameSize can be found in enc or dec atlas log
+BlueSpin 1802240
+ReadyForWinter 1638400
+CasualSquat 1802240
+FlowerDance 1802240
+
+Basic txt files contain information about dmetric and bitrate
+
+
+32*35
+26
+52
+52
+1250 frames
+
+r2 corresponds to 480p
+r5 corresponds to 1080p
+r1 can be 360p
+r3 is a bit worse than 720p
+r4 is bit better than 720p
