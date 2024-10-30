@@ -53,6 +53,7 @@ class P1203Standalone:
         amendment_1_stalling=False,
         amendment_1_app_2=False,
         fast_mode=False,
+        coeffs=P1203Pv._COEFFS
     ):
         """
         Initialize a standalone model run based on JSON input files
@@ -88,6 +89,7 @@ class P1203Standalone:
         self.amendment_1_app_2 = amendment_1_app_2
 
         self.fast_mode = fast_mode
+        self.coeffs = coeffs
 
         if quiet:
             logger.setLevel(logging.CRITICAL)
@@ -188,6 +190,7 @@ class P1203Standalone:
                 display_res=display_res,
                 device=device,
                 stream_id=stream_id,
+                coeffs=self.coeffs
             ).calculate(fast_mode=self.fast_mode or fast_mode)
 
         # use existing O22 scores

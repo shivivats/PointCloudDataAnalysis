@@ -204,9 +204,9 @@ class P1203Pq(object):
 
         if not self.has_audio:
             duration = O22_len
-            logger.warning(
-                "O21 has no scores, will assume constant high quality audio."
-            )
+            # logger.warning(
+            #     "O21 has no scores, will assume constant high quality audio."
+            # )
             self.O21 = np.full(duration, 5.0)
         else:
             # else truncate the duration to the shorter of both streams
