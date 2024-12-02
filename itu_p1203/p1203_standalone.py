@@ -89,7 +89,7 @@ class P1203Standalone:
         self.amendment_1_app_2 = amendment_1_app_2
 
         self.fast_mode = fast_mode
-        print("p1203 coeffs", coeffs)
+        #print("p1203 coeffs", coeffs)
         self.coeffs = coeffs
 
         if quiet:
