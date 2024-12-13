@@ -12,3 +12,34 @@ shgo results
 09:54AM on December 05, 2024
 [ 1.49814304e+01 -4.99995124e+00  5.52931784e-03  4.99999997e+00]
 1.0036888076062516
+
+shgo
+08:24PM on December 05, 2024
+[ 1.59453895 -0.20215047 26.40318509  2.12300797]
+0.7881188547299699
+
+TRAINING
+RMSE Again: 0.7881188547299699
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.911877
+P.1203            0.911877  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.912071
+P.1203            0.912071  1.000000
+
+VALIDATION
+RMSE Again: 0.8311377257751354
+
+Spearman
+              Ground truth   P.1203
+Ground truth       1.00000  0.80945
+P.1203             0.80945  1.00000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.852835
+P.1203            0.852835  1.000000
