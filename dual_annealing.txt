@@ -34,3 +34,34 @@ Pearson
               Ground truth    P.1203
 Ground truth      1.000000  0.854439
 P.1203            0.854439  1.000000
+
+dual_annealing
+01:51PM on December 13, 2024
+[11.74427914 -2.40268249 77.42511117  4.99970309]
+0.7435266223419355
+
+TRAINING
+RMSE Again: 0.7435266219522068
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.996965
+P.1203            0.996965  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.922661
+P.1203            0.922661  1.000000
+
+VALIDATION
+RMSE Again: 0.6907784183820767
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.984807
+P.1203            0.984807  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.961316
+P.1203            0.961316  1.000000
