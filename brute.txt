@@ -29,3 +29,34 @@ Pearson
               Ground truth    P.1203
 Ground truth      1.000000  0.982933
 P.1203            0.982933  1.000000
+
+brute
+09:10PM on December 16, 2024
+[ 1.73684211 -0.26315789 16.84210526  0.        ]
+0.8305174419384279
+
+TRAINING
+RMSE Again: 0.8305174419384279
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.876161
+P.1203            0.876161  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.876872
+P.1203            0.876872  1.000000
+
+VALIDATION
+RMSE Again: 0.9776791755666516
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.755545
+P.1203            0.755545  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.825736
+P.1203            0.825736  1.000000
