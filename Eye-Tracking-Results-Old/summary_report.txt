@@ -1,0 +1,379 @@
+=== Eye-Tracking Analysis Summary Report ===
+
+User Movement Categories:
+User User51: medium_movement
+User User52: medium_movement
+User User53: medium_movement
+User User54: high_movement
+User User55: high_movement
+User User56: low_movement
+User User57: medium_movement
+User User58: low_movement
+User User59: medium_movement
+User User60: medium_movement
+User User61: medium_movement
+User User62: high_movement
+User User63: high_movement
+User User64: low_movement
+User User65: high_movement
+User User67: high_movement
+User User68: medium_movement
+User User69: medium_movement
+User User70: low_movement
+User User71: high_movement
+User User72: high_movement
+User User73: medium_movement
+User User74: high_movement
+User User75: low_movement
+User User76: medium_movement
+User User77: high_movement
+User User78: high_movement
+User User79: high_movement
+User User80: high_movement
+User User81: low_movement
+User User82: medium_movement
+User User83: medium_movement
+User User84: medium_movement
+User User85: medium_movement
+User User86: high_movement
+User User87: high_movement
+User User88: high_movement
+User User89: high_movement
+User User90: high_movement
+User User91: low_movement
+User User92: medium_movement
+
+Movement Category Distribution:
+Low Movement: 7 users
+Medium Movement: 16 users
+High Movement: 18 users
+
+Eye Movement Statistics by User:
+
+User User51:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 80.00%
+  Average Saccade Percentage: 13.40%
+  Average Smooth Pursuit Percentage: 6.60%
+  Average Fixation Count: 36.50
+  Average Fixation Duration: 0.4853 seconds
+
+User User52:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 79.60%
+  Average Saccade Percentage: 12.20%
+  Average Smooth Pursuit Percentage: 8.20%
+  Average Fixation Count: 36.75
+  Average Fixation Duration: 0.4562 seconds
+
+User User53:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 77.60%
+  Average Saccade Percentage: 12.10%
+  Average Smooth Pursuit Percentage: 10.30%
+  Average Fixation Count: 36.75
+  Average Fixation Duration: 0.4393 seconds
+
+User User54:
+  Movement Category: high_movement
+  Average Fixation Percentage: 72.75%
+  Average Saccade Percentage: 16.75%
+  Average Smooth Pursuit Percentage: 10.50%
+  Average Fixation Count: 45.25
+  Average Fixation Duration: 0.3342 seconds
+
+User User55:
+  Movement Category: high_movement
+  Average Fixation Percentage: 77.45%
+  Average Saccade Percentage: 14.05%
+  Average Smooth Pursuit Percentage: 8.50%
+  Average Fixation Count: 33.75
+  Average Fixation Duration: 0.4887 seconds
+
+User User56:
+  Movement Category: low_movement
+  Average Fixation Percentage: 82.70%
+  Average Saccade Percentage: 11.55%
+  Average Smooth Pursuit Percentage: 5.75%
+  Average Fixation Count: 43.25
+  Average Fixation Duration: 0.3931 seconds
+
+User User57:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 77.50%
+  Average Saccade Percentage: 16.30%
+  Average Smooth Pursuit Percentage: 6.20%
+  Average Fixation Count: 45.25
+  Average Fixation Duration: 0.3537 seconds
+
+User User58:
+  Movement Category: low_movement
+  Average Fixation Percentage: 80.30%
+  Average Saccade Percentage: 11.70%
+  Average Smooth Pursuit Percentage: 8.00%
+  Average Fixation Count: 41.25
+  Average Fixation Duration: 0.4037 seconds
+
+User User59:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 83.10%
+  Average Saccade Percentage: 10.85%
+  Average Smooth Pursuit Percentage: 6.05%
+  Average Fixation Count: 37.25
+  Average Fixation Duration: 0.4555 seconds
+
+User User60:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 73.50%
+  Average Saccade Percentage: 14.35%
+  Average Smooth Pursuit Percentage: 12.15%
+  Average Fixation Count: 44.75
+  Average Fixation Duration: 0.3316 seconds
+
+User User61:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 85.35%
+  Average Saccade Percentage: 11.65%
+  Average Smooth Pursuit Percentage: 3.00%
+  Average Fixation Count: 36.25
+  Average Fixation Duration: 0.5119 seconds
+
+User User62:
+  Movement Category: high_movement
+  Average Fixation Percentage: 64.25%
+  Average Saccade Percentage: 23.65%
+  Average Smooth Pursuit Percentage: 12.10%
+  Average Fixation Count: 44.25
+  Average Fixation Duration: 0.2927 seconds
+
+User User63:
+  Movement Category: high_movement
+  Average Fixation Percentage: 62.30%
+  Average Saccade Percentage: 25.95%
+  Average Smooth Pursuit Percentage: 11.75%
+  Average Fixation Count: 51.75
+  Average Fixation Duration: 0.2425 seconds
+
+User User64:
+  Movement Category: low_movement
+  Average Fixation Percentage: 81.60%
+  Average Saccade Percentage: 10.00%
+  Average Smooth Pursuit Percentage: 8.40%
+  Average Fixation Count: 36.00
+  Average Fixation Duration: 0.4672 seconds
+
+User User65:
+  Movement Category: high_movement
+  Average Fixation Percentage: 74.40%
+  Average Saccade Percentage: 17.70%
+  Average Smooth Pursuit Percentage: 7.90%
+  Average Fixation Count: 36.50
+  Average Fixation Duration: 0.4302 seconds
+
+User User67:
+  Movement Category: high_movement
+  Average Fixation Percentage: 72.15%
+  Average Saccade Percentage: 12.80%
+  Average Smooth Pursuit Percentage: 15.05%
+  Average Fixation Count: 43.25
+  Average Fixation Duration: 0.3444 seconds
+
+User User68:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 79.60%
+  Average Saccade Percentage: 15.55%
+  Average Smooth Pursuit Percentage: 4.85%
+  Average Fixation Count: 41.75
+  Average Fixation Duration: 0.3978 seconds
+
+User User69:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 77.05%
+  Average Saccade Percentage: 14.40%
+  Average Smooth Pursuit Percentage: 8.55%
+  Average Fixation Count: 47.50
+  Average Fixation Duration: 0.3253 seconds
+
+User User70:
+  Movement Category: low_movement
+  Average Fixation Percentage: 85.20%
+  Average Saccade Percentage: 8.30%
+  Average Smooth Pursuit Percentage: 6.50%
+  Average Fixation Count: 38.25
+  Average Fixation Duration: 0.4609 seconds
+
+User User71:
+  Movement Category: high_movement
+  Average Fixation Percentage: 70.00%
+  Average Saccade Percentage: 16.65%
+  Average Smooth Pursuit Percentage: 13.35%
+  Average Fixation Count: 40.50
+  Average Fixation Duration: 0.3520 seconds
+
+User User72:
+  Movement Category: high_movement
+  Average Fixation Percentage: 72.40%
+  Average Saccade Percentage: 15.55%
+  Average Smooth Pursuit Percentage: 12.05%
+  Average Fixation Count: 35.50
+  Average Fixation Duration: 0.4290 seconds
+
+User User73:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 74.65%
+  Average Saccade Percentage: 18.35%
+  Average Smooth Pursuit Percentage: 7.00%
+  Average Fixation Count: 43.25
+  Average Fixation Duration: 0.3595 seconds
+
+User User74:
+  Movement Category: high_movement
+  Average Fixation Percentage: 73.45%
+  Average Saccade Percentage: 19.40%
+  Average Smooth Pursuit Percentage: 7.15%
+  Average Fixation Count: 47.50
+  Average Fixation Duration: 0.3382 seconds
+
+User User75:
+  Movement Category: low_movement
+  Average Fixation Percentage: 83.30%
+  Average Saccade Percentage: 10.45%
+  Average Smooth Pursuit Percentage: 6.25%
+  Average Fixation Count: 38.25
+  Average Fixation Duration: 0.4490 seconds
+
+User User76:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 72.71%
+  Average Saccade Percentage: 19.84%
+  Average Smooth Pursuit Percentage: 7.45%
+  Average Fixation Count: 42.25
+  Average Fixation Duration: 0.2897 seconds
+
+User User77:
+  Movement Category: high_movement
+  Average Fixation Percentage: 70.55%
+  Average Saccade Percentage: 21.20%
+  Average Smooth Pursuit Percentage: 8.25%
+  Average Fixation Count: 49.75
+  Average Fixation Duration: 0.2885 seconds
+
+User User78:
+  Movement Category: high_movement
+  Average Fixation Percentage: 66.25%
+  Average Saccade Percentage: 21.35%
+  Average Smooth Pursuit Percentage: 12.40%
+  Average Fixation Count: 45.75
+  Average Fixation Duration: 0.2913 seconds
+
+User User79:
+  Movement Category: high_movement
+  Average Fixation Percentage: 68.10%
+  Average Saccade Percentage: 19.90%
+  Average Smooth Pursuit Percentage: 12.00%
+  Average Fixation Count: 45.00
+  Average Fixation Duration: 0.3024 seconds
+
+User User80:
+  Movement Category: high_movement
+  Average Fixation Percentage: 62.15%
+  Average Saccade Percentage: 25.50%
+  Average Smooth Pursuit Percentage: 12.35%
+  Average Fixation Count: 36.25
+  Average Fixation Duration: 0.3540 seconds
+
+User User81:
+  Movement Category: low_movement
+  Average Fixation Percentage: 89.35%
+  Average Saccade Percentage: 7.45%
+  Average Smooth Pursuit Percentage: 3.20%
+  Average Fixation Count: 33.25
+  Average Fixation Duration: 0.5409 seconds
+
+User User82:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 84.80%
+  Average Saccade Percentage: 10.30%
+  Average Smooth Pursuit Percentage: 4.90%
+  Average Fixation Count: 31.25
+  Average Fixation Duration: 0.5591 seconds
+
+User User83:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 81.75%
+  Average Saccade Percentage: 12.00%
+  Average Smooth Pursuit Percentage: 6.25%
+  Average Fixation Count: 38.00
+  Average Fixation Duration: 0.4629 seconds
+
+User User84:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 83.60%
+  Average Saccade Percentage: 12.20%
+  Average Smooth Pursuit Percentage: 4.20%
+  Average Fixation Count: 35.75
+  Average Fixation Duration: 0.4859 seconds
+
+User User85:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 78.90%
+  Average Saccade Percentage: 16.25%
+  Average Smooth Pursuit Percentage: 4.85%
+  Average Fixation Count: 41.00
+  Average Fixation Duration: 0.4385 seconds
+
+User User86:
+  Movement Category: high_movement
+  Average Fixation Percentage: 71.50%
+  Average Saccade Percentage: 17.75%
+  Average Smooth Pursuit Percentage: 10.75%
+  Average Fixation Count: 35.25
+  Average Fixation Duration: 0.4120 seconds
+
+User User87:
+  Movement Category: high_movement
+  Average Fixation Percentage: 65.75%
+  Average Saccade Percentage: 22.85%
+  Average Smooth Pursuit Percentage: 11.40%
+  Average Fixation Count: 43.75
+  Average Fixation Duration: 0.3170 seconds
+
+User User88:
+  Movement Category: high_movement
+  Average Fixation Percentage: 60.95%
+  Average Saccade Percentage: 23.65%
+  Average Smooth Pursuit Percentage: 15.40%
+  Average Fixation Count: 44.00
+  Average Fixation Duration: 0.2789 seconds
+
+User User89:
+  Movement Category: high_movement
+  Average Fixation Percentage: 74.55%
+  Average Saccade Percentage: 18.20%
+  Average Smooth Pursuit Percentage: 7.25%
+  Average Fixation Count: 45.00
+  Average Fixation Duration: 0.3466 seconds
+
+User User90:
+  Movement Category: high_movement
+  Average Fixation Percentage: 77.55%
+  Average Saccade Percentage: 16.60%
+  Average Smooth Pursuit Percentage: 5.85%
+  Average Fixation Count: 44.50
+  Average Fixation Duration: 0.3827 seconds
+
+User User91:
+  Movement Category: low_movement
+  Average Fixation Percentage: 84.45%
+  Average Saccade Percentage: 10.90%
+  Average Smooth Pursuit Percentage: 4.65%
+  Average Fixation Count: 37.75
+  Average Fixation Duration: 0.4586 seconds
+
+User User92:
+  Movement Category: medium_movement
+  Average Fixation Percentage: 82.25%
+  Average Saccade Percentage: 7.40%
+  Average Smooth Pursuit Percentage: 10.35%
+  Average Fixation Count: 36.00
+  Average Fixation Duration: 0.4698 seconds
