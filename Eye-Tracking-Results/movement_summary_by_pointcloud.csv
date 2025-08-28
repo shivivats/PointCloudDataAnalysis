@@ -1,7 +1,0 @@
-,head_velocity_m_per_s,head_velocity_m_per_s,head_velocity_m_per_s,head_velocity_m_per_s,head_velocity_m_per_s,gaze_velocity_deg_per_s,gaze_velocity_deg_per_s,gaze_velocity_deg_per_s,gaze_velocity_deg_per_s,gaze_velocity_deg_per_s
-,count,mean,std,min,max,count,mean,std,min,max
-pc_name,,,,,,,,,,
-PCBlueSpin,779,0.552333,0.560408,0.005069,5.827285,779,76.74336,74.562385,1.496911,408.845894
-PCCasualSquat,779,0.717143,0.675948,0.007214,6.335246,779,95.596595,83.148443,1.653125,560.509497
-PCFlowerDance,779,0.557282,0.503395,0.003581,3.658404,779,76.489604,77.828359,1.553582,620.279287
-PCReadyForWinter,766,0.555873,0.581426,0.004769,4.355508,766,71.758338,79.807248,0.556149,636.871594
