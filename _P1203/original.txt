@@ -1,0 +1,494 @@
+
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.910877
+P.1203            0.910877  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.904375
+P.1203            0.904375  1.000000
+
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.935495
+P.1203            0.935495  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.891688
+P.1203            0.891688  1.000000
+
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.910877
+P.1203            0.910877  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.904375
+P.1203            0.904375  1.000000
+
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.935495
+P.1203            0.935495  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.891688
+P.1203            0.891688  1.000000
+
+original
+12:29PM on December 05, 2024
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.904053
+P.1203            0.904053  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.847379
+P.1203            0.847379  1.000000
+
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.854151
+P.1203            0.854151  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.741991
+P.1203            0.741991  1.000000
+
+original
+12:31PM on December 05, 2024
+TRAINING
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.904053
+P.1203            0.904053  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.847379
+P.1203            0.847379  1.000000
+
+VALIDATION
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.854151
+P.1203            0.854151  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.741991
+P.1203            0.741991  1.000000
+
+original
+12:33PM on December 05, 2024
+TRAINING
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.904053
+P.1203            0.904053  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.847379
+P.1203            0.847379  1.000000
+
+VALIDATION
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.854151
+P.1203            0.854151  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.741991
+P.1203            0.741991  1.000000
+
+original
+12:33PM on December 05, 2024
+TRAINING
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.904053
+P.1203            0.904053  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.847379
+P.1203            0.847379  1.000000
+
+VALIDATION
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.854151
+P.1203            0.854151  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.741991
+P.1203            0.741991  1.000000
+
+original
+12:33PM on December 05, 2024
+TRAINING
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.904053
+P.1203            0.904053  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.847379
+P.1203            0.847379  1.000000
+
+VALIDATION
+RMSE Again: nan
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.854151
+P.1203            0.854151  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.741991
+P.1203            0.741991  1.000000
+
+original
+12:41PM on December 05, 2024
+TRAINING
+RMSE Again: 2.004983301139859
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.904053
+P.1203            0.904053  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.847379
+P.1203            0.847379  1.000000
+
+VALIDATION
+RMSE Again: 2.13209367270809
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.854151
+P.1203            0.854151  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.741991
+P.1203            0.741991  1.000000
+
+original
+12:48PM on December 05, 2024
+TRAINING
+RMSE Again: 2.004983301139859
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.904053
+P.1203            0.904053  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.847379
+P.1203            0.847379  1.000000
+
+VALIDATION
+RMSE Again: 2.13209367270809
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.854151
+P.1203            0.854151  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.741991
+P.1203            0.741991  1.000000
+
+original
+10:46AM on December 13, 2024
+TRAINING
+RMSE Again: 1.9938480520465247
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.910877
+P.1203            0.910877  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.904375
+P.1203            0.904375  1.000000
+
+VALIDATION
+RMSE Again: 1.9224791836933743
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.935495
+P.1203            0.935495  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.891688
+P.1203            0.891688  1.000000
+
+original
+10:47AM on December 13, 2024
+TRAINING
+RMSE Again: 1.9938480520465247
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.910877
+P.1203            0.910877  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.904375
+P.1203            0.904375  1.000000
+
+VALIDATION
+RMSE Again: 1.9224791836933743
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.935495
+P.1203            0.935495  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.891688
+P.1203            0.891688  1.000000
+
+original
+10:09AM on December 16, 2024
+TRAINING
+RMSE Again: 2.011169550636156
+
+Spearman
+              Ground truth   P.1203
+Ground truth       1.00000  0.90646
+P.1203             0.90646  1.00000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.893942
+P.1203            0.893942  1.000000
+
+VALIDATION
+RMSE Again: 2.248546166605154
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.804745
+P.1203            0.804745  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.856571
+P.1203            0.856571  1.000000
+
+original
+11:45PM on August 27, 2025
+TRAINING
+RMSE Again: 2.011169550636156
+
+Spearman
+              Ground truth   P.1203
+Ground truth       1.00000  0.90646
+P.1203             0.90646  1.00000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.893942
+P.1203            0.893942  1.000000
+
+VALIDATION
+RMSE Again: 2.248546166605154
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.804745
+P.1203            0.804745  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.856571
+P.1203            0.856571  1.000000
+
+original
+11:46PM on August 27, 2025
+TRAINING
+RMSE Again: 2.004983301139859
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.904053
+P.1203            0.904053  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.847379
+P.1203            0.847379  1.000000
+
+VALIDATION
+RMSE Again: 2.13209367270809
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.854151
+P.1203            0.854151  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.741991
+P.1203            0.741991  1.000000
+
+original
+11:54PM on August 27, 2025
+TRAINING
+RMSE Again: 2.004983301139859
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.904053
+P.1203            0.904053  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.847379
+P.1203            0.847379  1.000000
+
+VALIDATION
+RMSE Again: 2.13209367270809
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.854151
+P.1203            0.854151  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.741991
+P.1203            0.741991  1.000000
+
+original
+12:44AM on August 28, 2025
+TRAINING
+RMSE Again: 1.9938480520465247
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.910877
+P.1203            0.910877  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.904375
+P.1203            0.904375  1.000000
+
+VALIDATION
+RMSE Again: 1.9224791836933743
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.935495
+P.1203            0.935495  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.891688
+P.1203            0.891688  1.000000
+
+original
+12:51AM on August 28, 2025
+TRAINING
+RMSE Again: 1.9938480520465247
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.910877
+P.1203            0.910877  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.904375
+P.1203            0.904375  1.000000
+
+VALIDATION
+RMSE Again: 1.9224791836933743
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.935495
+P.1203            0.935495  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.891688
+P.1203            0.891688  1.000000
+
+original
+12:51AM on August 28, 2025
+TRAINING
+RMSE Again: 1.9938480520465247
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.910877
+P.1203            0.910877  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.904375
+P.1203            0.904375  1.000000
+
+VALIDATION
+RMSE Again: 1.9224791836933743
+
+Spearman
+              Ground truth    P.1203
+Ground truth      1.000000  0.935495
+P.1203            0.935495  1.000000
+
+Pearson
+              Ground truth    P.1203
+Ground truth      1.000000  0.891688
+P.1203            0.891688  1.000000
