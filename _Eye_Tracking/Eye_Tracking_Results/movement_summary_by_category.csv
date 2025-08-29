@@ -1,0 +1,6 @@
+,head_velocity_m_per_s,head_velocity_m_per_s,head_velocity_m_per_s,head_velocity_m_per_s,head_velocity_m_per_s,gaze_velocity_deg_per_s,gaze_velocity_deg_per_s,gaze_velocity_deg_per_s,gaze_velocity_deg_per_s,gaze_velocity_deg_per_s
+,count,mean,std,min,max,count,mean,std,min,max
+overall_movement_category,,,,,,,,,,
+Low,818,0.280636,0.267083,0.004769,1.502086,818,52.209904,51.270256,0.556149,247.287302
+Medium,1346,0.480312,0.364996,0.003581,1.672265,1346,63.840462,57.122318,0.965443,250.979636
+High,693,0.707965,0.412633,0.00819,1.684614,693,85.351479,59.457239,1.484085,254.299287
